@@ -12,5 +12,5 @@ C, Python, and worked on a few embedded systems projects in C, Assembly, and VHD
 
 - [Yet Another Pokey Render Engine](https://github.com/PokeyOne/yapre) - Ray-casting rendering engine built in Rust.
 - [Pokey Logger](https://github.com/PokeyOne/pokey-logger) - Logging library built in Rust.
-- [Clasp](https://github.com/PokeyOne/clasp) - Programming language build in Rust.
+- [Clasp](https://github.com/PokeyOne/clasp) - Programming language built in Rust.
 
