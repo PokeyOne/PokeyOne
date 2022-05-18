@@ -4,16 +4,13 @@ Currently a Canadian Ruby on Rails web developer and third-year computer enginee
 
 First language is English, but know some spanish from family, and have been learning Scottish Gaelic in my free time for a while.
 
-## Gàidhlig (Scottish Gaelic)
+## Project Highlights
 
-Halò, is mise Mateo. 'S e oileanach einnseanaireachd coimpiutair a th' 
-annam anns a' Chanada. Is toil leam a' prògramachadh "low-level" no "embedded systems", "communication systems", is "web architecture".
-Is toil leam cànanain agus ceòl cuideachd.
+These are just some projects that I have public on GitHub. Right now they all
+happen to be in Rust, but I have also worked extensively with Ruby, Rails, Java,
+C, Python, and worked on a few embedded systems projects in C, Assembly, and VHDL.
 
-Tha beurla is beagan Spàinnis agam, agus tha mi ionnsachadh Gàidhlig.
+- [Yet Another Pokey Render Engine](https://github.com/PokeyOne/yapre) - Ray-casting rendering engine built in Rust.
+- [Pokey Logger](https://github.com/PokeyOne/pokey-logger) - Logging library built in Rust.
+- [Clasp](https://github.com/PokeyOne/clasp) - Programming language build in Rust.
 
-## Español
-
-Hola, soy Mateo. Soy un ingeniero informàtico en tercer año de universidad en Canada. Me gusta programando software low-level o embedded, y systemas de la comunicaciòn. Tambièn, me gusta aprender idiomas y música.
-
-Hablo inglès y un poquito de español, y estoy aprendiendo gaélico escocés.
